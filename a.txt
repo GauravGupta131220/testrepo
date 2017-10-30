@@ -1,6 +1,0 @@
-function add(){
-    return "niit"
-}
-
-add();
-is the content updated
