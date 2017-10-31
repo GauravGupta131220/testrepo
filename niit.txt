@@ -1,5 +1,5 @@
-function add(){
-    return "this is the new file i am creating";
+function printMsg(){
+    return "contents changed";
 }
 
-add();
+printMsg();
