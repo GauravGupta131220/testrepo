@@ -1,5 +1,0 @@
-function printMsg(){
-    return "contents changed";
-}
-
-printMsg();
